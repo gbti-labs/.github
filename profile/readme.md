@@ -22,7 +22,6 @@ Follow us on your favorite platforms for updates, news, and community discussion
 - **[YouTube](https://www.youtube.com/channel/UCh4FjB6r4oWQW-QFiwqv-UA)**
 - **[Dev.to](https://dev.to/gbti)**
 - **[Daily.dev](https://dly.to/zfCriM6JfRF)**
-- **[Hashnode](https://gbti.hashnode.dev/)**
 - **[Discord Community](https://gbti.network)**
 - **[Reddit Community](https://www.reddit.com/r/GBTI_network)**
 
